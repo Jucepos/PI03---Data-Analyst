@@ -17,14 +17,12 @@ En este repo encontraran:
 
 ***
 
+La idea principal era meternos en el rol de un Analista de Datos, obtener informacion de la base de ENACOM y a partir de las tablas y datos elegidos elaborar un reporte o dashboard para representar graficamente el impacto de esos datos durante un periodo de tiempo. De esta manera, le expresariamos a nuestro cliente cual podria ser una buena forma de invertir en el mundo de telecomunicaciones, como asi tambien, mostrar el avance en los planos de velocidad de internet o tipo de conexion mas demandados actualmente o con mayor margen de creciimiento en las distintas provincias del pais, seleccionando aquellas donde hay una amplia oportunidad de agrandar el negocio.
+
 Herramientas utilizadas: :arrow_down:
 
-🔸 Python
+🔸 Power BI
 
-🔸 Pandas
+🔸 Power Query
 
-🔸 Matplotlib
-
-🔸 Seaborn
-
-🔸 Scikit-learn
+🔸 DAX
