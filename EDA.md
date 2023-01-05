@@ -54,3 +54,8 @@ Creamos una columna con formato date a partir de la columna año y trimestre: Da
 Utilizamos merge query para unir todas las columnas que no se repetían e íbamos a utilizar para realizar las distintas métricas a través de las columnas Provincia, Año y Trimestre las cuales se presentaban en todos los datasets.
 
 Una vez obtenida esta tabla con todos los datos, se inicio con el proceso de crear nuevas medidas y la creación de los graficos de visualizacion
+
+## Motivos de seleccion:
+
+Se eligieron estos datasets principalmente para explicarle a nuestro cliente la gran posibilidad de crecimiento que hay en el rubro, implementando una conexion a internet a traves de la fibra optica que permite conexiones mas estables entre mas dispositivos en un mismo lugar que la conexion de cablemodem, asi como el dataset de vivienda habitada nos permite conocer en cuantas viviendas aproximadas y en cuales provincias principalmente no hay tv paga, lo cual beneficiaria conocer a nuestro actual cliente. 
+Conocer la historia de los datos con el paso del tiempo en este caso es necesario para ver como fue mutando y variando entre distintos periodos y que es lo que mas se busca en la actualidad.
